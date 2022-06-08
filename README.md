@@ -9,7 +9,7 @@ The complete source code to Explorium
 - Complete Website
 - Launcher
 - URI 
-- Updaters
+- Updater
 - A cleaned Database
 
 # Other
