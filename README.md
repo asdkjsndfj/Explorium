@@ -13,4 +13,4 @@ The complete source code to Explorium
 - A cleaned Database
 
 # Other
-[Original Binary Decompile Guide](#)
+[Original Binary Decompile Guide](https://docs.google.com/document/d/1Z-Oo1oyfLXNAq7xTnHT_1fiqSsjZcFp5SxGyjHA3N_w/)
