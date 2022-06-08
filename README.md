@@ -10,3 +10,6 @@ The complete source code to Explorium
 - Launcher
 - URI 
 - A cleaned Database
+
+# Other
+[Original Binary Decompile Guide](#)
